@@ -1,30 +1,14 @@
-# React + TypeScript + Vite
+# Projeto Ignite Feed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Este repositório é um projeto da Rocketseat, feito durante o curso de ReactJS. O Feed Ignite é uma plataforma de feed de comentários, onde exploramos os fundamentos do React e do TypeScript. 
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
+- [ReactJS](https://reactjs.org/): Biblioteca JavaScript para construir interfaces de usuário.
+- [TypeScript](https://www.typescriptlang.org/): Superset JavaScript que adiciona tipagem estática ao código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Estrutura do Projeto
+- `src/`: Contém o código-fonte do projeto.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Licença
+Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para mais detalhes.
