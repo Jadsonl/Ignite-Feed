@@ -9,6 +9,3 @@ Este repositório é um projeto da Rocketseat, feito durante o curso de ReactJS.
 
 ## Estrutura do Projeto
 - `src/`: Contém o código-fonte do projeto.
-
-## Licença
-Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para mais detalhes.
