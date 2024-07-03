@@ -1,5 +1,6 @@
 import { format, formatDistanceToNow} from 'date-fns'
-import ptBR from 'date-fns/locale/pt-BR'
+import { ptBR } from 'date-fns/locale';
+
 
 import { Avatar } from './Avatar.js'
 import { Comment } from './Comment.js'
